@@ -8,7 +8,7 @@ month: 2
 day: 12
 published: true
 summary: How to optimize hive count distincts with brickhouse group_count udf.
-image: blacktocat.png
+image: hive.png
 ---
 
 Suppose you have a big table of all movies ever made and you want to know the count of actors. 
