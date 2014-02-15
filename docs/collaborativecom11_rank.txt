@@ -1,0 +1,8 @@
+@inproceedings{prantik-rank11,
+  author = {Prantik Bhattacharyya and Jeff Rowe and Shyhtsun Felix Wu and Karen Haigh and Niklas Lavesson and Henric Johnson},
+  title = {Your Best might not be Good Enough: Ranking in Collaborative Social Search Engines.},
+  booktitle = {Proceedings of the 7th International Conference on Collaborative Computing: Networking, Applications and Worksharing (CollaborativeCom 2011)},
+  location = {Florida, USA},
+  month = {October},
+  year = {2011}
+}

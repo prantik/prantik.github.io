@@ -1,0 +1,8 @@
+@inproceedings{garg-2009-search,
+  author = {Ankush Garg and Prantik Bhattacharyya and Charles U. Martel and S. Felix Wu},
+  title = {Information Flow and Search in Unstructed Keyword based Social Networks},
+  booktitle = {Proceedings of the Social Mobile Web Workshop (SMW '09)},
+  location = {Vancouver, Canada},
+  month = {August},
+  year = {2009}
+}

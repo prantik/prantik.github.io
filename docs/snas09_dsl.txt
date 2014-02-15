@@ -1,0 +1,8 @@
+@inproceedings{tran-2009-dsl,
+  author = {Thomas Tran and Kelcey Chan and Shaozhi Ye and Prantik Bhattacharyya and Ankush Garg and Xiaoming Lu and S. Felix Wu},
+  title = {Design and Implementation of Davis Social Links OSN Kernel},
+  booktitle = {Proceedings of the Workshop on Social Networks,  Applications, and Systems (SNAS '09)},
+  location = {Boston, USA},
+  month = {August},
+  year = {2009}
+}

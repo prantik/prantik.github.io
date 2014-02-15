@@ -1,0 +1,6 @@
+@inproceedings{prantik-infosearch,
+  author = {Prantik Bhattacharyya and S. Felix Wu},
+  title = {InfoSearch: A Social Search Engine},
+  booktitle = {In Data Mining and Knowledge Discovery for Big Data: Methodologies, Challenges, and Opportunities, Springer Series on Studies in Big Data},
+  year = {2013}
+}

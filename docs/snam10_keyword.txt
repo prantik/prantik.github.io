@@ -1,0 +1,6 @@
+@inproceedings{prantik-user_similarity,
+  author = {Prantik Bhattacharyya and Ankush Garg and S. Felix Wu},
+  title = {Analysis of User Keyword in Online Social Networks},
+  booktitle = {In Social Networks Analysis and Mining Journal (by Springer)),
+  year = {2010}
+}
