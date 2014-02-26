@@ -1,0 +1,29 @@
+@prantik's life
+- 05/1986 Born
+- 11/2011 Married @justjoyee
+- 01/1991-05/1991 Kindergarten
+- 06/1991-06/2003 Grade 1 to High School
+- 07/2003-06/2007 Bachelors in Computer Science & Engineering
+- 09/2007-06/2012 PhD, Computer Science
+- 08/2012-~ [Research Engineer at Klout, San Francisco, CA](www.klout.com)
+- 04/1996 Summer holidays in Shimla
+- 2001 Chaibasha
+- 07/2010 NYC
+- 12/2012 Death Valley
+- 04/2013 Seattle and Portland
+- 12/2013 Leland Snowplay
+- 12/2013 First Christmas Tree with @justjoyee
+- 01/2014 Weekend trip to Yosemite with @justjoyee
+- 02/2014 Sold my first car.
+- 1999 Introduction to computers!
+- 06/2003 First Computer.
+- 09/2007 First Laptop.
+- 06/2010 First Macbook
+- 11/2007 First digital camera.
+- 01/2011 First DSLR, Canon EOS Rebel T1i
+- 11/2013 First Kindle.
+- 11/2013 First Chromecast.
+- 04/2000 First bollywood movie in a theatre - Hera Pheri
+- 08/1996 Crushed Finger!
+- 07/2009 [First academic publication at ASONAM](http://www.informatik.uni-trier.de/~ley/db/conf/asunam/asunam2009.html)
+- 08/2009 [Workshop paper at SocialCom](http://www.asesite.org/conferences/socialcom/2009/)

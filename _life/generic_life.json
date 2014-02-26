@@ -1,0 +1,28 @@
+{"category": "Personal", "on": "05/1986", "description": "Born"}
+{"category": "Personal", "on": "11/2011", "description": "Married @justjoyee"}
+{"category": "Education", "from": "01/1991", "to": "05/1991", "description": "Kindergarten"}
+{"category": "Education", "from": "06/1991", "to": "06/2003", "description": "Grade 1 to High School", "location": "Kendriya Vidyala, Kolkata"}
+{"category": "Education", "from": "07/2003", "to": "06/2007", "description": "Bachelors in Computer Science & Engineering", "location": "Jadavpur University, India"}
+{"category": "Education", "from": "09/2007", "to": "06/2012", "description": "PhD, Computer Science", "location": "UC Davis"}
+{"category": "Professional", "from": "08/2012", "title": "Research Engineer","company": "Klout", "location": "San Francisco, CA", "website": "www.klout.com"}
+{"category": "Trips", "on": "04/1996", "description": "Summer holidays in Shimla"}
+{"category": "Trips", "on": "2001","description" : "Chaibasha"}
+{"category": "Trips", "on": "07/2010", "description": "NYC"}
+{"category": "Trips", "on": "12/2012", "description": "Death Valley"}
+{"category": "Trips", "on": "04/2013", "description": "Seattle and Portland"}
+{"category": "Trips", "on": "12/2013", "description": "Leland Snowplay"}
+{"category": "Milestones", "on": "12/2013", "description": "First Christmas Tree with @justjoyee"}
+{"category": "Milestones", "on": "01/2014", "description": "Weekend trip to Yosemite with @justjoyee"}
+{"category": "Milestones", "on": "02/2014", "description": "Sold my first car."}
+{"category": "Tech", "on": "1999" ,"description": "Introduction to computers!"}
+{"category": "Tech", "on": "06/2003", "description": "First Computer."}
+{"category": "Tech", "on": "09/2007", "description": "First Laptop."}
+{"category": "Tech", "on": "06/2010", "description": "First Macbook"}
+{"category": "Tech", "on": "11/2007", "description": "First digital camera."}
+{"category": "Tech", "on": "01/2011", "description": "First DSLR, Canon EOS Rebel T1i"}
+{"category": "Tech", "on": "11/2013", "description": "First Kindle."}
+{"category": "Tech", "on": "11/2013", "description": "First Chromecast."}
+{"category": "Entertainment", "on": "04/2000", "description": "First bollywood movie in a theatre - Hera Pheri"}
+{"category": "Medical", "on": "08/1996", "description": "Crushed Finger!"}
+{"category": "Conferences", "on": "07/2009", "description": "First academic publication at ASONAM","website": "http://www.informatik.uni-trier.de/~ley/db/conf/asunam/asunam2009.html","location": "Athens, Greece"}
+{"category": "Conferences", "on": "08/2009", "description": "Workshop paper at SocialCom","website": "http://www.asesite.org/conferences/socialcom/2009/","location": "Vancouver, Canada"}
