@@ -15,6 +15,7 @@
 - 12/2013 First Christmas Tree with @justjoyee
 - 01/2014 Weekend trip to Yosemite with @justjoyee
 - 02/2014 Sold my first car.
+- 03/2014 Acquired by Lithium, crazy journey continues!
 - 1999 Introduction to computers!
 - 06/2003 First Computer.
 - 09/2007 First Laptop.
