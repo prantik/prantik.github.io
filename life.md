@@ -5,7 +5,8 @@
 - 06/1991-06/2003 Grade 1 to High School
 - 07/2003-06/2007 Bachelors in Computer Science & Engineering
 - 09/2007-06/2012 PhD, Computer Science
-- 08/2012-~ [Research Engineer at Klout, San Francisco, CA](www.klout.com)
+- 08/2012-04/2014 [Research Engineer at Klout, San Francisco, CA](www.klout.com)
+- 05/2014-~ [Senior Research Engineer at Lithium (acquired Klout), San Francisco, CA](www.lithium.com)
 - 04/1996 Summer holidays in Shimla
 - 2001 Chaibasha
 - 07/2010 NYC
@@ -13,6 +14,7 @@
 - 04/2013 Seattle and Portland
 - 12/2013 Leland Snowplay
 - 04/2014 Napa - Viansa Winery
+- 06/2014 3435.9 mile roadtrip through Yellowstone, Big 5 in Utah, Las Vegas.
 - 12/2013 First Christmas Tree with @justjoyee
 - 01/2014 Weekend trip to Yosemite with @justjoyee
 - 02/2014 Sold my first car.

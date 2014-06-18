@@ -4,7 +4,8 @@
 {"category": "Education", "from": "06/1991", "to": "06/2003", "description": "Grade 1 to High School", "location": "Kendriya Vidyala, Kolkata"}
 {"category": "Education", "from": "07/2003", "to": "06/2007", "description": "Bachelors in Computer Science & Engineering", "location": "Jadavpur University, India"}
 {"category": "Education", "from": "09/2007", "to": "06/2012", "description": "PhD, Computer Science", "location": "UC Davis"}
-{"category": "Professional", "from": "08/2012", "title": "Research Engineer","company": "Klout", "location": "San Francisco, CA", "website": "www.klout.com"}
+{"category": "Professional", "from": "08/2012", "to": "04/2014", "title": "Research Engineer","company": "Klout", "location": "San Francisco, CA", "website": "www.klout.com"}
+{"category": "Professional", "from": "05/2014", "title": "Senior Research Engineer","company": "Lithium (acquired Klout)", "location": "San Francisco, CA", "website": "www.lithium.com"}
 {"category": "Trips", "on": "04/1996", "description": "Summer holidays in Shimla"}
 {"category": "Trips", "on": "2001","description" : "Chaibasha"}
 {"category": "Trips", "on": "07/2010", "description": "NYC"}
@@ -12,6 +13,7 @@
 {"category": "Trips", "on": "04/2013", "description": "Seattle and Portland"}
 {"category": "Trips", "on": "12/2013", "description": "Leland Snowplay"}
 {"category": "Trips", "on": "04/2014", "description": "Napa - Viansa Winery"}
+{"category": "Trips", "on": "06/2014", "description": "3435.9 mile roadtrip through Yellowstone, Big 5 in Utah, Las Vegas.", "notes": "Came back through Los Angeles, started on May 24th and came back on Jun 5th."}
 {"category": "Milestones", "on": "12/2013", "description": "First Christmas Tree with @justjoyee"}
 {"category": "Milestones", "on": "01/2014", "description": "Weekend trip to Yosemite with @justjoyee"}
 {"category": "Milestones", "on": "02/2014", "description": "Sold my first car."}
