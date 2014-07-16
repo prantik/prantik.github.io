@@ -1,4 +1,4 @@
-@inproceedings{tran-2009-dsl,
+@inproceedings{ttran09,
   author = {Thomas Tran and Kelcey Chan and Shaozhi Ye and Prantik Bhattacharyya and Ankush Garg and Xiaoming Lu and S. Felix Wu},
   title = {Design and Implementation of Davis Social Links OSN Kernel},
   booktitle = {Proceedings of the Workshop on Social Networks,  Applications, and Systems (SNAS '09)},

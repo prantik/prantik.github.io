@@ -1,4 +1,4 @@
-@inproceedings{nemanja-2014-lasta,
+@inproceedings{lasta14,
   author = {Nemanja Spasojevic and Jinyun Yan and Adithya Rao and Prantik Bhattacharyya},
   title = {LASTA: Large Scale Topic Assignment on Multiple Social Networks},
   booktitle = {In KDD 2014: 20th ACM SIGKDD Conference on Knowledge Discovery and Data Mining.},

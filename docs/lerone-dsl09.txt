@@ -1,7 +1,7 @@
-@inproceedings{banks-2009-dsl,
+@inproceedings{lerone-dsl09,
   title={Davis social links: Leveraging social networks for future internet communication},
   author={Banks, Lerone and Bhattacharyya, Prantik and Spear, Matthew and Wu, Shyhtsun Felix},
-  booktitle={SAINT: Ninth Annual International Symposium on Applications and the Internet. },
+  booktitle={SAINT '09: Ninth Annual International Symposium on Applications and the Internet},
   pages={165--168},
   month={July}
   year={2009},

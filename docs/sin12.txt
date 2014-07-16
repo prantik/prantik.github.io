@@ -1,0 +1,8 @@
+@inproceedings{sin12,
+  author = {Roozbeh Nia and Fredrik Erlandsson and Prantik Bhattacharyya and Mohammad Rezaur Rahman and Henric Johnson and S Felix Wu},
+  title = {Sin: A platform to make interactions in social networks accessible},
+  booktitle = {SocialInformatics '2012: International Conference on Social Informatics},
+  location = {Washington, D.C., USA},
+  month = {December},
+  year = {2012}
+}

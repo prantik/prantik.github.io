@@ -1,4 +1,4 @@
-@inproceedings{bhattacharyya-2009-similarity,
+@inproceedings{asonam09,
   author = {Prantik Bhattacharyya and Ankush Garg and S. Felix Wu},
   title = {Social Network Model based on Keyword Categorization},
   booktitle = {Proceedings of the International Conference on Advances in Social 

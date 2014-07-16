@@ -1,4 +1,4 @@
-@inproceedings{mina-triad11,
+@inproceedings{triad11,
   author = {Mina Doroud and Prantik Bhattacharyya and Shyhtsun Felix Wu and Diane Felmlee},
   title = {The Evolution of Ego-Centric Triads: A Microscopic Approach toward Predicting Macroscopic Network Properties.},
   booktitle = {Proceeding of the 3rd IEEE International Conference on Social Computing (SocialCom 2011)},

@@ -1,4 +1,4 @@
-@inproceedings{zhao-2010-wiki,
+@inproceedings{socialwiki10,
   author = {Haifeng Zhao, Shaozhi Ye, Prantik Bhattacharyya, Jeff Rowe, Ken Gribble, and S. Felix Wu },
   title = {SocialWiki: Bring Order to Wiki Systems with Social Context},
  booktitle = {Proceedings of the 2nd IEEE International Conference on Social Informatics (SocInfo '10)},
