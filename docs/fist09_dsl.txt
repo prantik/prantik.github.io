@@ -1,8 +1,10 @@
 @inproceedings{banks-2009-dsl,
-  author = {Lerone Banks and Prantik Bhattacharyya and Matthew Spear Garg and S. Felix Wu},
-  title = {Davis Social Links: Leveraging Social Networks for Future Internet Communication},
-  booktitle = {Proceedings of the First International Workshop on Trust and Security in the Future Internet (FIST '09)},
+  title={Davis social links: Leveraging social networks for future internet communication},
+  author={Banks, Lerone and Bhattacharyya, Prantik and Spear, Matthew and Wu, Shyhtsun Felix},
+  booktitle={SAINT: Ninth Annual International Symposium on Applications and the Internet. },
+  pages={165--168},
+  month={July}
+  year={2009},
   location = {Seattle, USA},
-  month = {July},
-  year = {2009}
+  organization={IEEE}
 }
