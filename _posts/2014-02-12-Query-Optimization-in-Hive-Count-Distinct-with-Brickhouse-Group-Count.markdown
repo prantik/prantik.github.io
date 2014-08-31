@@ -2,7 +2,7 @@
 title: Query Optimization in Hive - Count Distinct with Brickhouse Group Count
 layout: post 
 category: Engineering
-tags: query optimization, hive, brickhouse
+tags: query optimization hive brickhouse
 year: 2014
 month: 2
 day: 12
