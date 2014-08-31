@@ -15,6 +15,8 @@
 - 12/2013 Leland Snowplay
 - 04/2014 Napa - Viansa Winery
 - 06/2014 3435.9 mile roadtrip through Yellowstone, Big 5 in Utah, Las Vegas.
+- 07/2014 Parents visit come to an end - Half Moon Bay, Big Basin State Park.
+- 08/2014 Suparna visits - First night time trip to Treasure Island.
 - 12/2013 First Christmas Tree with @justjoyee
 - 01/2014 Weekend trip to Yosemite with @justjoyee
 - 02/2014 Sold my first car.
@@ -22,6 +24,7 @@
 - 03/2014 Bought my second car.
 - 04/2014 Lithium Outing to San Francisco Exploratorium.
 - 05/2014 Parents visit, paper accepted at KDD 2014.
+- 08/2014 Taught @justjoyee how to ride a bike.
 - 1999 Introduction to computers!
 - 06/2003 First Computer.
 - 09/2007 First Laptop.
