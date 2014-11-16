@@ -25,6 +25,9 @@
 - 04/2014 Lithium Outing to San Francisco Exploratorium.
 - 05/2014 Parents visit, paper accepted at KDD 2014.
 - 08/2014 Taught @justjoyee how to ride a bike.
+- 09/2014 Bike outing to Sequoia Bayview Trail Oakland with @justjoyee.
+- 10/2014 Bike ride across Golden Gate Bridge with Som.
+- 11/2014 First 10 Mile ride.
 - 1999 Introduction to computers!
 - 06/2003 First Computer.
 - 09/2007 First Laptop.
