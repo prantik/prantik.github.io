@@ -17,6 +17,7 @@
 - 06/2014 3435.9 mile roadtrip through Yellowstone, Big 5 in Utah, Las Vegas.
 - 07/2014 Parents visit come to an end - Half Moon Bay, Big Basin State Park.
 - 08/2014 Suparna visits - First night time trip to Treasure Island.
+- 12/2014 Christmas trip to North Lake Tahoe, Reno.
 - 12/2013 First Christmas Tree with @justjoyee
 - 01/2014 Weekend trip to Yosemite with @justjoyee
 - 02/2014 Sold my first car.
@@ -26,8 +27,9 @@
 - 05/2014 Parents visit, paper accepted at KDD 2014.
 - 08/2014 Taught @justjoyee how to ride a bike.
 - 09/2014 Bike outing to Sequoia Bayview Trail Oakland with @justjoyee.
-- 10/2014 Bike ride across Golden Gate Bridge with Som.
+- 10/2014 Bike ride across Golden Gate Bridge with @Somp.
 - 11/2014 First 10 Mile ride.
+- 12/2014 Indoor Sky Diving, Putting up snow chains for drive through Lake Tahoe.
 - 1999 Introduction to computers!
 - 06/2003 First Computer.
 - 09/2007 First Laptop.
