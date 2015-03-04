@@ -733,7 +733,7 @@
 .fuelux h4,
 .fuelux h5,
 .fuelux h6 {
-  margin: 10px 0;
+  margin: 5px 0;
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
@@ -967,7 +967,7 @@
 .fuelux code,
 .fuelux pre {
   padding: 0 3px 2px;
-  font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+  font-family: inherit;
   font-size: 12px;
   color: #333333;
   -webkit-border-radius: 3px;
@@ -1060,7 +1060,7 @@
 .fuelux button,
 .fuelux select,
 .fuelux textarea {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: inherit;
 }
 
 .fuelux label {
@@ -4449,7 +4449,7 @@ textarea.span1,
 .fuelux .navbar-search .search-query {
   padding: 4px 14px;
   margin-bottom: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: inherit;
   font-size: 13px;
   font-weight: normal;
   line-height: 1;
