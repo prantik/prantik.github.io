@@ -233,9 +233,13 @@
 .fuelux body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:ratio,'Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT","Myriad Pro",Myriad,"DejaVu Sans Condensed","Liberation Sans","Nimbus Sans L",Tahoma,Geneva,sans-serif;
   font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
   color: #333333;
+  font-weight: 300;
+  line-height: 1.65em;
   background-color: #ffffff;
 }
 
@@ -810,11 +814,13 @@
 .fuelux ul ol,
 .fuelux ol ol,
 .fuelux ol ul {
-  margin-bottom: 0;
+  margin-bottom: 20px;
+  margin: 20px;
 }
 
 .fuelux li {
   line-height: 20px;
+  padding: 3.5px;
 }
 
 .fuelux ul.unstyled,
@@ -6703,3 +6709,12 @@ textarea.span1,
 .fuelux .step-content .active {
   display: block;
 }
+
+/*.fuelux .li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+.fuelux .li.li6 {margin: 0.0px 0.0px 18.0px 0.0px; font: 12.0px Times}
+.fuelux .span.s1 {text-decoration: underline}
+.fuelux .span.s2 {color: #000000}
+.fuelux .span.s3 {text-decoration: underline ; color: #0000ee}
+.fuelux .span.s4 {color: #0000ee}
+.fuelux .span.s5 {font: 12.0px 'Lucida Grande'}
+.fuelux .ul.ul1 {list-style-type: disc, font-size: 200px;}*/
