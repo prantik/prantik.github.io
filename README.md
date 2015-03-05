@@ -2,7 +2,7 @@
 
 For security reasons, github doesn't allow running plugins and tag index pages built using `tag_gen.rb` are not served by github. A hack around this is to build to the tag index pages locally, move them one level up in directory structure everytime before pushing to remote. 
 
-    alias build_blog='bundle exec jekyll; cp -r _site/tags/ tags/'
+    alias build_blog='bundle exec jekyll build; cp -r _site/tags/ tags/'
 
 
 ### Acknowledgments: ###
