@@ -233,7 +233,7 @@
 .fuelux body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-family:ratio,'Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Frutiger,"Frutiger Linotype",Univers,Calibri,"Gill Sans","Gill Sans MT","Myriad Pro",Myriad,"DejaVu Sans Condensed","Liberation Sans","Nimbus Sans L",Tahoma,Geneva,sans-serif;
+  font-family:ratio,'Source Sans Pro',"Helvetica Neue",Helvetica,Arial,Frutiger,"Frutiger Linotype",Univers,Calibri,"Myriad Pro",Myriad,"DejaVu Sans Condensed","Liberation Sans","Nimbus Sans L",Tahoma,Geneva,sans-serif;
   font-size: 14px;
   font-size: 16px;
   line-height: 20px;
@@ -820,7 +820,7 @@
 
 .fuelux li {
   line-height: 20px;
-  padding: 7px;
+  padding: 10px;
 }
 
 .fuelux ul.unstyled,
