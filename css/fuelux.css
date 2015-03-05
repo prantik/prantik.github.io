@@ -736,7 +736,7 @@
   margin: 5px 0;
   font-family: inherit;
   font-weight: bold;
-  line-height: 5px;
+  line-height: 20px;
   color: inherit;
   text-rendering: optimizelegibility;
 }
@@ -820,7 +820,7 @@
 
 .fuelux li {
   line-height: 20px;
-  padding: 3.5px;
+  padding: 7px;
 }
 
 .fuelux ul.unstyled,
