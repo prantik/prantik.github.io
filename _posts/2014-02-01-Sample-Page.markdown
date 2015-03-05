@@ -2,7 +2,7 @@
 title: Sample Page
 layout: post 
 category: Coding
-tags: github pages
+tags: github-pages
 year: 2014
 month: 2
 day: 1
