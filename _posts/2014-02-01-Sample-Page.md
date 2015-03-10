@@ -1,7 +1,7 @@
 ---
 title: Sample Page
 layout: post 
-category: Coding
+category: blog
 tags: github-pages
 year: 2014
 month: 2

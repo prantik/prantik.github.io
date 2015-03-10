@@ -1,7 +1,7 @@
 ---
 title: Find Set Difference in Hive 
 layout: post 
-category: Engineering
+category: blog
 tags: hive
 year: 2014
 month: 2
