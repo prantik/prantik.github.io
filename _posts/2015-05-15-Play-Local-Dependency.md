@@ -2,7 +2,7 @@
 title: Clearing out local Play Framework Dependency Libraries
 layout: post 
 category: blog
-tags: sbt
+tags: play-framework maven
 year: 2015
 month: 5
 day: 15
