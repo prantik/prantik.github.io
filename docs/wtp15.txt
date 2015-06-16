@@ -1,0 +1,8 @@
+@inproceedings{wtp15,
+  author = {Nemanja Spasojevic and Zhisheng Li and Adithya Rao and Prantik Bhattacharyya},
+  title = {When-To-Post on Social Networks},
+  booktitle = {In KDD 2015: 21st ACM SIGKDD Conference on Knowledge Discovery and Data Mining.},
+  location = {Sydney, Australia},
+  month = {August},
+  year = {2015}
+}
