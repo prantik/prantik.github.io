@@ -3,3 +3,4 @@ markdown: rdiscount
 pygments: true
 permalink: /blog/:title
 highlighter: rouge
+markdown: kramdown
