@@ -1,0 +1,10 @@
+@inproceedings{experts16,
+  author = {Nemanja Spasojevic and Prantik Bhattacharyya and Adithya Rao},
+  title = {Mining Half a Billion Topical Experts Across Multiple Social Networks},
+  booktitle = {In Social Network Analysis and Mining Journal (by Springer)},
+  volume={6},
+  number={1},
+  pages={63},
+  year = {2016},
+  publisher={Springer}
+}
