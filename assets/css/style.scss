@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import "rouge-base16-dark";
+@import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
+
+.wrapper {
+  width:740px;
+  margin:0 auto;
+  background:#FEFEFE;
+  border-radius: 8px;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+}
+
