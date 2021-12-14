@@ -2,7 +2,8 @@
 layout: custom
 title: "Prantik Bhattacharyya"
 ---
-I am an **Engineering Manager** at Reddit. I lead a team of software engineers who build the data ingestion pipelines critical to the ad-serving, reporting and billing path. Earlier I lead work in Ads-Targeting: building data powered products to match advertisers with their right audiences. 
+I am an **Engineering Manager** at Reddit. I manage the team responsible for building the revenue critical streaming and batch processing pipelines that enable Ad-serving, billing, analytics & ML operations. Additionally, my team also builds and oversees the operation of event storage systems, compliance to data retention policies and the reporting infrastructure. 
+Earlier I lead work in Ads-Targeting: building data powered products to match advertisers with their right audiences and in Data Engineering: building the 2nd generation of data ingestion & warehousing flow at Reddit, growing pipeline 30X to 20 billion raw events/day.
 
 I worked as a Research Engineer at [Lithium Technologies and Klout](https://techcrunch.com/2014/03/27/lithium-acquires-klout/) between 2012 and 2017.
 I graduated from the [University of California, Davis](htttp://ucdavis.edu) with a **PhD in [Computer Science](http://www.cs.ucdavis.edu/)** in 2012. I was advised by [Prof. S. (Shyhtsun) Felix Wu](http://www.cs.ucdavis.edu/~wu/). My research area was software systems built on social networks to power search engines.
