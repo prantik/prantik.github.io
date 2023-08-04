@@ -3,11 +3,12 @@ layout: custom
 title: "Prantik Bhattacharyya"
 ---
 
-I am an **Engineering Manager** at [Monte Carlo Data](https://www.montecarlodata.com/), the leading data observability platform. I lead the software engineering team building core product features around monitoring data pipelines.
+I am an **Engineering Manager** at [Monte Carlo Data](https://www.montecarlodata.com/). I lead a team of software engineers to build the core data monitoring product.
 
-I was an **Engineering Manager** at Reddit till Feb 2022, leading a team of software engineers to build revenue critical streaming and batch processing pipelines critical to ad-serving, reporting and billing. Earlier I lead work in Ads-Targeting: building features to match advertisers with their right audiences and in Data Engineering: building data ingestion & warehousing flow, growing pipeline 30X to 20 billion raw events/day.
+I was an **Engineering Manager** at Reddit till Feb 2022, leading a team of software engineers to build revenue critical streaming and batch processing pipelines foundational to ad-serving, reporting and billing. I joined Reddit in 2017, where I lead work in _Ads-Targeting_: building features to match advertisers with their right audiences and in _Data Engineering_: building data ingestion & warehousing flow, growing pipeline 30X to 20 billion raw events/day.
 
-I worked as a Research Engineer at [Lithium Technologies and Klout](https://techcrunch.com/2014/03/27/lithium-acquires-klout/) between 2012 and 2017.
+I was a **Research Engineer** at [Lithium Technologies and Klout](https://techcrunch.com/2014/03/27/lithium-acquires-klout/) between 2012 and 2017, building large scale data processing pipelines and machine learning models to measure user influence in social media.
+
 I graduated from the [University of California, Davis](htttp://ucdavis.edu) with a **PhD in [Computer Science](http://www.cs.ucdavis.edu/)** in 2012. I was advised by [Prof. S. (Shyhtsun) Felix Wu](http://www.cs.ucdavis.edu/~wu/). My research area was software systems built on social networks to power search engines.
 
 I dabbled in economic data analysis and worked with World International Patent Organization (WIPO) through [Prof. Travis Lybbert](http://tlybbert.ucdavis.edu/), UC Davis to develop software systems based on text processing and keyword extraction models to analyze trademark and economic data.
